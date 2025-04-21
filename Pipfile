@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+yolk3k = "*"
+setuptools = "*"
+jupyterlab = "*"
+pandas = "*"
+altair = "*"
+numpy = "*"
+datawrapper = "*"
+pyjanitor = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
