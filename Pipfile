@@ -13,6 +13,8 @@ numpy = "*"
 datawrapper = "*"
 pyjanitor = "*"
 requests = "*"
+pyarrow = "*"
+fastparquet = "*"
 
 [dev-packages]
 
