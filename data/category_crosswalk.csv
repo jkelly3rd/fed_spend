@@ -90,12 +90,12 @@ Housing and Urban Development programs,null,Department of Housing and Urban Deve
 HUD - Federal Housing Admin (FHA),null,Federal Housing Administration,HUD,
 Other Withdrawals,African Development Fund,African Development Fund,IAP,
 Other Withdrawals,Asian Development Bank Payment,Asian Development Bank,IAP,
-IAP - Agency for Int'l Development (AID),null,IAP Agency for International Development (USAID),IAP,
-Other Withdrawals,Agency for Internat'l Development,IAP Agency for International Development (USAID),IAP,
-IAP - US Int'l Devlop Finance Corp (DFC),null,IAP Development Finance Corporation,IAP,Includes old Overseas Private Inv Co and Dev Credit Auth after 2019
-IAP - Foreign Military Sales,null,IAP Foreign Military Sales,IAP,
-Other Withdrawals,Foreign Military Sales Program,IAP Foreign Military Sales,IAP,
-IAP - Multilateral Assistance,null,IAP Multilateral Assistance,IAP,
+IAP - Agency for Int'l Development (AID),null,Agency for International Development (USAID),IAP,
+Other Withdrawals,Agency for Internat'l Development,Agency for International Development (USAID),IAP,
+IAP - US Int'l Devlop Finance Corp (DFC),null,Development Finance Corporation,IAP,Includes old Overseas Private Inv Co and Dev Credit Auth after 2019
+IAP - Foreign Military Sales,null,Foreign Military Sales,IAP,
+Other Withdrawals,Foreign Military Sales Program,Foreign Military Sales,IAP,
+IAP - Multilateral Assistance,null,Multilateral Assistance,IAP,
 Int'l Assistance Programs (IAP) - misc,null,International Assistance Programs,IAP,
 Other Withdrawals,Pmt. to Int'l Bk for Reconstruction,International Bank for Reconstruction,IAP,
 Other Withdrawals,Pmt. to Internat'l Development Assn.,International Development Association,IAP,
