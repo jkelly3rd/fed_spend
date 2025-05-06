@@ -1,0 +1,158 @@
+transaction_catg,transaction_catg_desc,count
+Agriculture Loan Repayments (misc),null,2041
+Air Transport Security Fees,null,1910
+Cash FTD's Received (Table IV),null,2604
+Change in Balance of Uncollected Funds,null,2398
+Commodity Credit Corporation programs,null,2041
+Commodity Futures Trading Comm (CFTC),null,348
+Customs and Certain Excise Taxes,null,1910
+DHS - Customs and Certain Excise Taxes,null,1251
+DHS - Fed Emergency Mgmt Agency (FEMA),null,1251
+DHS - Seized Assets,null,647
+DHS - Transportation Security Admn (TSA),null,1251
+DOI - Fish and Wildlife and Parks,null,1083
+DOI - Gas and Oil Lease Sales Proceeds,null,1083
+DOI - Land and Minerals Management,null,1083
+DOI - Water and Science,null,1083
+DOL - Pension Benefit Guaranty Corp.,null,1158
+Deposits by States,Supplemental Security Income,2209
+Deposits by States,Unemployment,2003
+Dept of Agriculture (USDA) - misc,null,1120
+Dept of Commerce (DOC),null,1375
+Dept of Defense (DoD),null,251
+Dept of Defense (DoD) - misc,null,147
+Dept of Education (ED),null,1375
+Dept of Energy (DOE),null,1375
+Dept of Health & Human Serv (HHS) - Misc,null,739
+Dept of Health & Human Serv (HHS) - misc,null,557
+Dept of Homeland Security (DHS) - misc,null,1251
+Dept of Housing & Urban Dev (HUD) - misc,null,743
+Dept of Interior (DOI) - misc,null,1083
+Dept of Justice (DOJ),null,743
+Dept of Labor (DOL) - misc,null,1158
+Dept of State (DOS),null,743
+Dept of Transportation (DOT),null,1207
+Dept of Treasury (TREAS) - misc,null,788
+Dept of Veterans Affairs (VA),null,1334
+District of Columbia,null,1158
+DoD - Health,null,147
+Education Department programs,null,1786
+Energy Department programs,null,1786
+Environmental Protection Agency (EPA),null,1251
+Estate and Gift Taxes,null,2604
+Export-Import Bank,null,1083
+FCC - Universal Service Fund,null,1207
+Farm Credit System Insurance Cor (FCSIC),null,348
+Federal Communications Commission (FCC),null,1207
+Federal Deposit Insurance Corp (FDIC),null,1158
+Federal Reserve Earnings,null,3161
+Federal Retirement Thrift Savings Plan,null,743
+Federal Trade Commission (FTC),null,995
+"Foreign Deposits, Military Sales",null,1006
+Foreign Military Sales Program,null,1757
+General Services Administration (GSA),null,1375
+HHS - Marketplace Receipts,null,1296
+HHS - Medicare Premiums,null,1296
+HUD - Federal Housing Admin (FHA),null,743
+Housing and Urban Development programs,null,2418
+IAP - Agency for Int'l Development (AID),null,647
+IAP - Foreign Military Sales,null,398
+IAP - US Int'l Devlop Finance Corp (DFC),null,647
+Independent Agencies - misc,null,995
+"Individual Income and Employment Taxes, Not Withheld",null,2604
+Int'l Assistance Programs (IAP) - misc,null,647
+Interest recd from cash investments,null,2209
+International Monetary Fund (IMF),null,788
+Judicial Branch - Courts,null,1040
+Justice Department programs,null,2418
+Legislative Branch - Library of Congress,null,1040
+Legislative Branch - misc,null,1040
+National Credit Union Admin (NCUA),null,1120
+National Science Foundation (NSF),null,1251
+OPM - Federal Employee Insurance Receipt,null,743
+Office of Personnel Mgmt (OPM) - misc,null,743
+Other Deposits,Agency for Internat'l Development,19
+Other Deposits,Animal Plant Health Inspection svcs,27
+Other Deposits,Commodity Futures Trading Commission,25
+Other Deposits,Comptroller of the Currency-Assessment,38
+Other Deposits,Corps of Engineers,34
+Other Deposits,DHS - Immigration & Customs Enforcement,2
+Other Deposits,Defense Finance & Accounting Service,311
+Other Deposits,Deposit Insurance Fund,128
+Other Deposits,Dept of Transportation (DOT),14
+Other Deposits,Emergency Prep & Response (DHS),9
+Other Deposits,Environmental Protection Agency,3
+Other Deposits,Export-Import Bank,108
+Other Deposits,FCC - Universal Service Fund,137
+Other Deposits,FSA Tobacco Assessments,13
+Other Deposits,Farm Credit System Ins. Corp.,8
+Other Deposits,Fed. Crop Ins. Corp. Fund Premiums,48
+Other Deposits,Federal Communications Commission,54
+Other Deposits,Federal Employees Insurance Receipt,112
+Other Deposits,Federal Finance Bank,65
+Other Deposits,Federal Housing Admin: Note Sales,1209
+Other Deposits,Federal Trade Commission,11
+Other Deposits,GSE Dividends,29
+Other Deposits,Gas and Oil Lease Sales Proceeds,93
+Other Deposits,IRS Other Deposits,1
+Other Deposits,Interior,57
+Other Deposits,Interior: Bureau of Land Management,8
+Other Deposits,Interior: Bureau of Reclamation,4
+Other Deposits,Interior: Office of Surface Mining,1
+Other Deposits,International Monetary Fund,214
+Other Deposits,Interntl Security Assistance (DSCA),2
+Other Deposits,Library of Congress,14
+Other Deposits,Maritime Administration,2
+Other Deposits,Marketplace Receipts,43
+Other Deposits,Medicare Premiums,1228
+Other Deposits,Minerals Management Svc/Collections,130
+Other Deposits,National Credit Union Administration,65
+Other Deposits,Natl Railroad Retirement Inv Trust,95
+Other Deposits,Overseas Private Investment Co.,14
+Other Deposits,Pension Benefit Guaranty Corp.,172
+Other Deposits,Railroad Unemployment Ins.,154
+Other Deposits,SEC:Stock Exchange Fees,27
+Other Deposits,Securities and Exchange Commission,55
+Other Deposits,Seized Assets,16
+Other Deposits,Small Business Admin. Loan Sales,12
+Other Deposits,State Department,13
+Other Deposits,TARP,494
+Other Deposits,Thrift Savings Plan Transfer,1312
+Other Deposits,USDA: Forest Service,3
+Other Deposits,Veterans Assets Sales,3
+Postal Service,null,2763
+Public Debt Cash Issues (Table III-B),null,2499
+Public Debt Cash Issues (Table IIIB),null,662
+RRB - Natl Railroad Retirement Inv Trust,null,1040
+RRB - Unemployment Insurance,null,1040
+SSA - Supplemental Security Income,null,952
+Securities and Exchange Commission (SEC),null,1207
+Small Business Administration (SBA),null,1251
+Social Security Admin (SSA) - misc,null,952
+State Unemployment Insurance Deposits,null,1158
+TREAS - Bureau of Engraving and Printing,null,647
+TREAS - Comptroller of the Currency,null,788
+TREAS - Federal Financing Bank,null,788
+TREAS - GSE Proceeds,null,788
+TREAS - Troubled Asset Relief Pro (TARP),null,141
+TREAS - United States Mint,null,788
+Taxes - Corporate Income,null,557
+Taxes - Estate and Gift,null,557
+Taxes - Federal Unemployment (FUTA),null,557
+"Taxes - IRS Collected Estate, Gift, misc",null,557
+Taxes - Miscellaneous Excise,null,557
+Taxes - Non Withheld Ind/SECA Electronic,null,557
+Taxes - Non Withheld Ind/SECA Other,null,557
+Taxes - Railroad Retirement,null,557
+Taxes - Withheld Individual/FICA,null,557
+Thrift Savings Plan Transfer,null,1
+Transfers from Depositaries,null,2398
+Transfers from Federal Reserve Account (Table V),null,2262
+Transfers from TGA (Table V),null,136
+US Army Corps of Engineers,null,398
+USDA - Commodity Credit Corporation,null,1120
+USDA - Federal Crop Insurance Corp Fund,null,1120
+USDA - Loan Repayments,null,1120
+USDA - Other Farm Service,null,221
+Unclassified - Deposits,null,1187
+United States Postal Service (USPS),null,398
